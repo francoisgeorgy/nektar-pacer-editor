@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/nektar-pacer-editor/precache-manifest.a7b4f7837ba6954af8caff6a2158bcbf.js"
+  "/pacer-editor/precache-manifest.908247be01ebfe93aa6032651438e12f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/nektar-pacer-editor/index.html", {
+workbox.routing.registerNavigationRoute("/pacer-editor/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

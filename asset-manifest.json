@@ -1,13 +1,13 @@
 {
-  "main.css": "/nektar-pacer-editor/static/css/main.5f83414f.chunk.css",
-  "main.js": "/nektar-pacer-editor/static/js/main.c76bd17a.chunk.js",
-  "main.js.map": "/nektar-pacer-editor/static/js/main.c76bd17a.chunk.js.map",
-  "static/js/1.6890d458.chunk.js": "/nektar-pacer-editor/static/js/1.6890d458.chunk.js",
-  "static/js/1.6890d458.chunk.js.map": "/nektar-pacer-editor/static/js/1.6890d458.chunk.js.map",
-  "runtime~main.js": "/nektar-pacer-editor/static/js/runtime~main.1faeeffc.js",
-  "runtime~main.js.map": "/nektar-pacer-editor/static/js/runtime~main.1faeeffc.js.map",
-  "static/css/main.5f83414f.chunk.css.map": "/nektar-pacer-editor/static/css/main.5f83414f.chunk.css.map",
-  "index.html": "/nektar-pacer-editor/index.html",
-  "precache-manifest.a7b4f7837ba6954af8caff6a2158bcbf.js": "/nektar-pacer-editor/precache-manifest.a7b4f7837ba6954af8caff6a2158bcbf.js",
-  "service-worker.js": "/nektar-pacer-editor/service-worker.js"
+  "main.css": "/pacer-editor/static/css/main.5f83414f.chunk.css",
+  "main.js": "/pacer-editor/static/js/main.1fe8eb62.chunk.js",
+  "main.js.map": "/pacer-editor/static/js/main.1fe8eb62.chunk.js.map",
+  "static/js/1.6890d458.chunk.js": "/pacer-editor/static/js/1.6890d458.chunk.js",
+  "static/js/1.6890d458.chunk.js.map": "/pacer-editor/static/js/1.6890d458.chunk.js.map",
+  "runtime~main.js": "/pacer-editor/static/js/runtime~main.b83602fa.js",
+  "runtime~main.js.map": "/pacer-editor/static/js/runtime~main.b83602fa.js.map",
+  "static/css/main.5f83414f.chunk.css.map": "/pacer-editor/static/css/main.5f83414f.chunk.css.map",
+  "index.html": "/pacer-editor/index.html",
+  "precache-manifest.908247be01ebfe93aa6032651438e12f.js": "/pacer-editor/precache-manifest.908247be01ebfe93aa6032651438e12f.js",
+  "service-worker.js": "/pacer-editor/service-worker.js"
 }
