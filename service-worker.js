@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pacer-editor/precache-manifest.a728aa9e61d1ac92ed7f0d7f751a2e3c.js"
+  "/pacer-editor/precache-manifest.a7ccf80b7a27a9013d39fab73dda0714.js"
 );
 
 workbox.clientsClaim();
