@@ -1,13 +1,13 @@
 {
-  "main.css": "/pacer-editor/static/css/main.8fe9779d.chunk.css",
-  "main.js": "/pacer-editor/static/js/main.1011fc4a.chunk.js",
-  "main.js.map": "/pacer-editor/static/js/main.1011fc4a.chunk.js.map",
-  "static/js/1.61c6c1f7.chunk.js": "/pacer-editor/static/js/1.61c6c1f7.chunk.js",
-  "static/js/1.61c6c1f7.chunk.js.map": "/pacer-editor/static/js/1.61c6c1f7.chunk.js.map",
-  "runtime~main.js": "/pacer-editor/static/js/runtime~main.b83602fa.js",
-  "runtime~main.js.map": "/pacer-editor/static/js/runtime~main.b83602fa.js.map",
-  "static/css/main.8fe9779d.chunk.css.map": "/pacer-editor/static/css/main.8fe9779d.chunk.css.map",
-  "index.html": "/pacer-editor/index.html",
-  "precache-manifest.a7ccf80b7a27a9013d39fab73dda0714.js": "/pacer-editor/precache-manifest.a7ccf80b7a27a9013d39fab73dda0714.js",
-  "service-worker.js": "/pacer-editor/service-worker.js"
+  "main.css": "./static/css/main.5708d89c.chunk.css",
+  "main.js": "./static/js/main.831876a3.chunk.js",
+  "main.js.map": "./static/js/main.831876a3.chunk.js.map",
+  "static/js/1.0d72d44c.chunk.js": "./static/js/1.0d72d44c.chunk.js",
+  "static/js/1.0d72d44c.chunk.js.map": "./static/js/1.0d72d44c.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.5708d89c.chunk.css.map": "./static/css/main.5708d89c.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.ab8ecdb2323d42bbcae7a3d2d2089558.js": "./precache-manifest.ab8ecdb2323d42bbcae7a3d2d2089558.js",
+  "service-worker.js": "./service-worker.js"
 }
